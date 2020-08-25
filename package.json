@@ -76,6 +76,7 @@
     "@dcloudio/webpack-uni-pages-loader": "^2.0.0-27920200618002",
     "@mengjing/eslint-config": "^1.0.0",
     "@types/lodash-es": "^4.17.3",
+    "@vue/babel-preset-app": "^4.5.4",
     "@vue/cli-plugin-babel": "~4.4.0",
     "@vue/cli-plugin-eslint": "~4.4.0",
     "@vue/cli-service": "~4.4.0",
